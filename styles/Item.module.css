@@ -1,0 +1,20 @@
+/* .done {
+  @apply py-4 border border-t-0 border-gray-700;
+} */
+
+/* .done:first-child {
+  @apply border-t rounded-t;
+}
+
+.done:last-child {
+  @apply border-b rounded-b;
+} */
+
+.done {
+  @apply py-1;
+}
+
+.item.done {
+  text-decoration: line-through;
+  @apply opacity-50;
+}
