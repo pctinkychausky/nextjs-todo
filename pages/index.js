@@ -40,6 +40,7 @@ const Home = () => {
         </div>
 
         <div className="pt-12">
+          <div>click enter to add items</div>
           <input
             type="text"
             value={todoItem}
