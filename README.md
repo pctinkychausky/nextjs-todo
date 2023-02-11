@@ -1,8 +1,10 @@
 ## Introduction
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) Todo list project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Press Enter to add the items and double click to mark as done. 
 items will then showed in another list named "done".
+
+The reason I created this app was because to recap the syntax of next.js when I was learning Nust.js and Vue2 to prevent mixing the syntax in my memory. 
 
 ## Getting Started
 
